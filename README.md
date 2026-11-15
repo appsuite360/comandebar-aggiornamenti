@@ -2,11 +2,9 @@
 
 Qui ci sono solo i file di installazione dell'app ComandeBar (nessun codice sorgente, nessuna chiave).
 
-- **ComandeBar.apk** – tablet della cassa
-- **ComandeBarSala.apk** – telefoni delle cameriere / tablet cucina
+- **ComandeBar.apk** – una sola app per tutti: al primo avvio si sceglie se il dispositivo è il tablet della cassa, il telefono di una cameriera o il tablet della cucina.
 
 Scarica da telefono o tablet:
-- Cassa: https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk
-- Sala: https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBarSala.apk
+https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk
 
-Il tablet della cassa controlla `versione.json` dal pulsante Impostazioni → Aggiornamenti app.
+Le app controllano da sole `versione.json` e avvisano quando c'è una versione nuova.

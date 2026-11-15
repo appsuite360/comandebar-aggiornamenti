@@ -1,5 +1,6 @@
 {
-  "versione": "1.9.2",
+  "versione": "2.0.0",
+  "rilascio": "2026-11-16",
   "apk": "https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk",
-  "note": "Prima versione"
+  "note": "Una sola app per cassa, telefoni e cucina (si sceglie al primo avvio). Licenza della cassa. Icona in alto quando c'è un aggiornamento. Pagamenti col POS più sicuri, copia automatica dei dati prima di ogni aggiornamento e molte correzioni."
 }
