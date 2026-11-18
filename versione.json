@@ -1,6 +1,6 @@
 {
-  "versione": "2.0.2",
-  "rilascio": "2026-11-17",
+  "versione": "2.0.3",
+  "rilascio": "2026-11-18",
   "apk": "https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk",
-  "note": "Nuova opzione: ordini dal QR solo per i tavoli aperti dal personale (spenta di base, in Impostazioni)."
+  "note": "Foto e descrizione dei piatti nella pagina dei clienti che ordinano dal QR (la pagina delle cameriere resta compatta)."
 }
