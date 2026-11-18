@@ -1,6 +1,6 @@
 {
-  "versione": "2.0.3",
-  "rilascio": "2026-11-18",
+  "versione": "2.0.4",
+  "rilascio": "2026-11-19",
   "apk": "https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk",
-  "note": "Foto e descrizione dei piatti nella pagina dei clienti che ordinano dal QR (la pagina delle cameriere resta compatta)."
+  "note": "Nuovo menù per i clienti dal QR: prima le categorie con le foto, poi i piatti con foto grande. Corretto un avviso «stampa non riuscita» che poteva comparire per errore quando lo stesso ordine arrivava due volte."
 }
