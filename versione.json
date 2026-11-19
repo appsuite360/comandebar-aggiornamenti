@@ -1,6 +1,6 @@
 {
-  "versione": "2.0.5",
+  "versione": "2.0.6",
   "rilascio": "2026-11-19",
   "apk": "https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk",
-  "note": "Le casse nuove partono con un menù di esempio con le foto (primi, secondi, contorni, dolci e bibite). Le casse già in uso non cambiano."
+  "note": "Sulla comanda secondi e contorni sono sotto un'unica voce «SECONDI E CONTORNI»: escono insieme."
 }
