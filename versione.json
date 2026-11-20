@@ -1,6 +1,6 @@
 {
-  "versione": "2.0.7",
+  "versione": "2.0.8",
   "rilascio": "2026-11-20",
   "apk": "https://raw.githubusercontent.com/appsuite360/comandebar-aggiornamenti/main/ComandeBar.apk",
-  "note": "Bibite con la fotina a sinistra nel menù del cliente dal QR"
+  "note": "Menù di esempio: bottiglietta d'acqua e lattina di cola"
 }
